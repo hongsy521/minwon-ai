@@ -1,2 +1,2 @@
-# minwon-ai
+# idec-ai
 #with bangbaedong badapyobum...
